@@ -31,4 +31,17 @@ public class activity_convert extends AppCompatActivity implements AdapterView.O
 
     }
 
+    @Override
+    public void onClick(View v) {
+        
+    }
+
+    @Override
+    public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
+
+    }
+    @Override
+    public void onNothingSelected(AdapterView<?> parent) {
+
+    }
 }
