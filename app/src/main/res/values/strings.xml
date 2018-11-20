@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">calv</string>
+    <string name="name">Name</string>
+    <string name="Exit">Exit</string>
+
+    <string-array name="converts">
+        <item>Довжина</item>
+        <item>Маса</item>
+    </string-array>
+
+</resources>
