@@ -17,6 +17,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".ConvertActivity" />
+        <activity android:name=".HistoryActivity"></activity>
     </application>
 
 </manifest>
